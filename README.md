@@ -53,6 +53,16 @@ To include visual proof of your results (e.g., table previews or SQL output), sa
 
 ![Sample Output](outputs/plots/fig4.png)
 
+---
+🧠 Key Insights
+Top revenue categories: Clothing, Electronics
+
+Returning customers contributed over 40% revenue
+
+COD remains the most popular payment method
+
+---
+
 ## 📌 Author
 
 **Abhishek Bhardwaj** 
