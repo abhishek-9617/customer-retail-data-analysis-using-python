@@ -55,6 +55,7 @@ To include visual proof of your results (e.g., table previews or SQL output), sa
 
 ---
 🧠 Key Insights
+
 Top revenue categories: Clothing, Electronics
 
 Returning customers contributed over 40% revenue
